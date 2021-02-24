@@ -9,3 +9,4 @@ export default MyApp
 
 // https://www.youtube.com/watch?v=ShufCBZi_r8
 // Build an AI POWERED SHOPPING CART in React w/ Alan AI - Feb 17, 2021
+// https://studio.alan.app/plans
